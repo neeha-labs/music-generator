@@ -1,0 +1,7 @@
+{
+  "name": "SonicForge AI",
+  "description": "A full-stack AI music production suite. Generate structured lyrics with Gemini, compose music, and perform vocal style transfers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
